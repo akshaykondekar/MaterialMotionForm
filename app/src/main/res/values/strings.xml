@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MaterialMotionForm</string>
+    <string name="bonafide">Bonafide</string>
+    <string name="apply_for_bonafide">Apply for Bonafide</string>
+    <string name="subject_hint">Subject</string>
+    <string name="reason_in_detail_hint">Reason in detail</string>
+    <string name="submit">submit</string>
+    <string name="subject_title">Subject</string>
+    <string name="reason_in_detail_title">Reason in detail</string>
+    <string name="dd_mmm_yyyy_default">dd MMM yyyy</string>
+    <string name="issued">issued</string>
+    <string name="pending">pending</string>
+</resources>
